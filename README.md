@@ -1,5 +1,7 @@
 # alfred-glosbe-english-korean
 
+[![Build Status](https://travis-ci.org/hyunchel/alfred-glosbe-english-korean.svg?branch=master)](https://travis-ci.org/hyunchel/alfred-glosbe-english-korean)
+
 Define English word into Korean using [Glosbe API][glosbe-api].
 
 ![Workflow demo](./demo.gif)
