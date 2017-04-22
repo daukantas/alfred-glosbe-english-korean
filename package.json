@@ -1,6 +1,6 @@
 {
   "name": "alfred-glosbe-english-korean",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Define English word into Korean via Glosbe API.",
   "main": "index.js",
   "scripts": {
