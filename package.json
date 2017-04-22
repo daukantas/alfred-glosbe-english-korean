@@ -4,6 +4,8 @@
   "description": "Define English word into Korean via Glosbe API.",
   "main": "index.js",
   "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup",
     "test": "ava"
   },
   "keywords": [
