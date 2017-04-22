@@ -1,0 +1,29 @@
+{
+  "name": "alfred-glosbe-english-korean",
+  "version": "1.0.0",
+  "description": "Define English word into Korean via Glosbe API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "alfred",
+    "glosbe",
+    "dictionary",
+    "english",
+    "korean"
+  ],
+  "author": {
+    "name": "Hyunchel Kim",
+    "email": "hyunchel.inbox@gmail.com",
+    "url": "http://hyunchel.me"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.6.0"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "^0.19.1"
+  }
+}
